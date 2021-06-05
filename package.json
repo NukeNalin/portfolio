@@ -2,7 +2,7 @@
   "name": "developer-portfolio",
   "version": "1.0.0",
   "description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
-  "main": "index.js",
+  "main": "index.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/creativetimofficial/argon-design-system-react.git"
@@ -12,8 +12,9 @@
   "bugs": {
     "url": "https://nalinporwal.com"
   },
-  "homepage": "",
+  "homepage": "https://NukeNalin.github.io/portfolio",
   "scripts": {
+    "deploy" : "gh-pages -d public",
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
     "test": "react-scripts test",
