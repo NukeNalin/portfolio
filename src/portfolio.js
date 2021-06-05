@@ -3,6 +3,7 @@ import emoji from 'react-easy-emoji';
 import digivalet from './assets/img/icons/common/digivalet.png'
 import enginnerbabu from './assets/img/icons/common/enginnerb.png'
 import codebetter from './assets/img/icons/common/codebetter.png'
+import resume from './assets/img/icons/common/resume.pdf'
 
 import advantal from './assets/img/icons/common/advantallogo.png'
 
@@ -10,7 +11,7 @@ export const greetings = {
     "name": "Nalin Porwal",
     "title": "Hi all, I'm Nalin",
     "description": "I am Nalin Porwal, a thinker, fun lover, problem solver and a friendly guy.  An established and acknowledged iOS Developer, who loves getting my hands dirty in coding. I create cool iOS Apps and have a work experience of more than 3 years. I love sitting with my shiny Apple all day long to create cool apps for cool folks",
-    "resumeLink": "https://cv.hanzla.ga"
+    "resumeLink": "./assets/img/icons/common/resume.pdf"
 }
 
 export const openSource = {
