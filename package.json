@@ -7,10 +7,10 @@
     "type": "git",
     "url": "git+https://github.com/creativetimofficial/argon-design-system-react.git"
   },
-  "author": "1hanzla100",
+  "author": "Nuke Nalin",
   "license": "MIT",
   "bugs": {
-    "url": "https://hanzla.ga"
+    "url": "https://nalinporwal.com"
   },
   "homepage": "",
   "scripts": {
@@ -34,6 +34,7 @@
     "bootstrap": "4.3.1",
     "classnames": "2.2.6",
     "colorthief": "^2.3.0",
+    "gh-pages": "^3.2.0",
     "graphql": "^15.4.0",
     "headroom.js": "0.11.0",
     "moment": "2.24.0",
