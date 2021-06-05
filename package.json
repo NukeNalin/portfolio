@@ -14,7 +14,7 @@
   },
   "homepage": "https://nukenalin.github.io/portfolio/",
   "scripts": {
-    "depploy": "gh-pages -d public",
+    "deploy": "gh-pages -d public",
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
     "test": "react-scripts test",
