@@ -7,14 +7,14 @@
     "type": "git",
     "url": "git+https://github.com/creativetimofficial/argon-design-system-react.git"
   },
-  "author": "Nuke Nalin",
+  "author": "1hanzla100",
   "license": "MIT",
   "bugs": {
-    "url": "https://nalinporwal.com"
+    "url": "https://hanzla.ga"
   },
-  "homepage": "https://NukeNalin.github.io/portfolio",
+  "homepage": "",
   "scripts": {
-    "deploy" : "gh-pages -d public",
+    "depploy": "gh-pages -d public",
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
     "test": "react-scripts test",
