@@ -2,7 +2,7 @@
   "name": "developer-portfolio",
   "version": "1.0.0",
   "description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
-  "main": "index.js",
+  "main": "index.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/creativetimofficial/argon-design-system-react.git"
@@ -14,7 +14,7 @@
   },
   "homepage": "https://nukenalin.github.io/portfolio/",
   "scripts": {
-    "predeploy" : "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
@@ -36,7 +36,6 @@
     "bootstrap": "4.3.1",
     "classnames": "2.2.6",
     "colorthief": "^2.3.0",
-    "gh-pages": "^3.2.0",
     "graphql": "^15.4.0",
     "headroom.js": "0.11.0",
     "moment": "2.24.0",
@@ -59,6 +58,7 @@
     "@types/markerclustererplus": "2.1.33",
     "@types/react": "16.9.19",
     "eslint-plugin-flowtype": "3.13.0",
+    "gh-pages": "^3.2.0",
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.8",
     "jquery": "^3.5.1",
