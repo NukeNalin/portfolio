@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5e4f9c64.chunk.css",
+    "main.js": "/portfolio/static/js/main.e5f62555.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e5f62555.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.69445cf4.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.69445cf4.js.map",
+    "static/js/2.56c9aa9e.chunk.js": "/portfolio/static/js/2.56c9aa9e.chunk.js",
+    "static/js/2.56c9aa9e.chunk.js.map": "/portfolio/static/js/2.56c9aa9e.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.5e4f9c64.chunk.css.map": "/portfolio/static/css/main.5e4f9c64.chunk.css.map",
+    "static/js/2.56c9aa9e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.56c9aa9e.chunk.js.LICENSE.txt",
+    "static/media/Navigation.css": "/portfolio/static/media/Agustina.320d237b.otf",
+    "static/media/advantallogo.4a8b2514.png": "/portfolio/static/media/advantallogo.4a8b2514.png",
+    "static/media/codebetter.e9a191b9.png": "/portfolio/static/media/codebetter.e9a191b9.png",
+    "static/media/digivalet.64d2613b.png": "/portfolio/static/media/digivalet.64d2613b.png",
+    "static/media/enginnerb.3a4f5b16.png": "/portfolio/static/media/enginnerb.3a4f5b16.png",
+    "static/media/font-awesome.min.css": "/portfolio/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/nucleo.css": "/portfolio/static/media/nucleo-icons.d6a66724.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69445cf4.js",
+    "static/js/2.56c9aa9e.chunk.js",
+    "static/css/main.5e4f9c64.chunk.css",
+    "static/js/main.e5f62555.chunk.js"
+  ]
+}
