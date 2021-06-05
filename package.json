@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://hanzla.ga"
   },
-  "homepage": "https://nukenalin.github.io/portfolio/",
+  "homepage": "",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
