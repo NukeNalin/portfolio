@@ -11,11 +11,11 @@ export const greetings = {
     "name": "Nalin Porwal",
     "title": "Hi all, I'm Nalin",
     "description": "I am Nalin Porwal, a thinker, fun lover, problem solver and a friendly guy.  An established and acknowledged iOS Developer, who loves getting my hands dirty in coding. I create cool iOS Apps and have a work experience of more than 3 years. I love sitting with my shiny Apple all day long to create cool apps for cool folks",
-    "resumeLink": ""
+    "resumeLink": "https://drive.google.com/file/d/1fTMcW01ns5u1BcoZadJl7-7OBKDhnNqq/view?usp=sharing"
 }
 
 export const openSource = {
-  githubUserName: '1hanzla100',
+  githubUserName: 'NukeNalin',
 };
 
 export const contact = {
