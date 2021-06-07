@@ -3,7 +3,6 @@ import emoji from 'react-easy-emoji';
 import digivalet from './assets/img/icons/common/digivalet.png'
 import enginnerbabu from './assets/img/icons/common/enginnerb.png'
 import codebetter from './assets/img/icons/common/codebetter.png'
-import resume from './assets/img/icons/common/resume.pdf'
 
 import advantal from './assets/img/icons/common/advantallogo.png'
 
